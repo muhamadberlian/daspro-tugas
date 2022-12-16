@@ -1,0 +1,16 @@
+c:\Users\ACER\Desktop\Game tank\obj\Debug\net5.0\Game tank.csproj.AssemblyReference.cache
+c:\Users\ACER\Desktop\Game tank\obj\Debug\net5.0\Game tank.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ACER\Desktop\Game tank\obj\Debug\net5.0\Game tank.AssemblyInfoInputs.cache
+c:\Users\ACER\Desktop\Game tank\obj\Debug\net5.0\Game tank.AssemblyInfo.cs
+c:\Users\ACER\Desktop\Game tank\obj\Debug\net5.0\Game tank.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Game tank\bin\Debug\net5.0\Game tank.exe
+C:\Users\ACER\Desktop\Game tank\bin\Debug\net5.0\Game tank.deps.json
+C:\Users\ACER\Desktop\Game tank\bin\Debug\net5.0\Game tank.runtimeconfig.json
+C:\Users\ACER\Desktop\Game tank\bin\Debug\net5.0\Game tank.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\Game tank\bin\Debug\net5.0\Game tank.dll
+C:\Users\ACER\Desktop\Game tank\bin\Debug\net5.0\ref\Game tank.dll
+C:\Users\ACER\Desktop\Game tank\bin\Debug\net5.0\Game tank.pdb
+C:\Users\ACER\Desktop\Game tank\obj\Debug\net5.0\Game tank.dll
+C:\Users\ACER\Desktop\Game tank\obj\Debug\net5.0\ref\Game tank.dll
+C:\Users\ACER\Desktop\Game tank\obj\Debug\net5.0\Game tank.pdb
+C:\Users\ACER\Desktop\Game tank\obj\Debug\net5.0\Game tank.genruntimeconfig.cache

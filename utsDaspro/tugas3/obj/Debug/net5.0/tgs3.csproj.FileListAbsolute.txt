@@ -1,0 +1,16 @@
+C:\Users\ACER\Desktop\tgs3\obj\Debug\net5.0\tgs3.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\tgs3\obj\Debug\net5.0\tgs3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\tgs3\obj\Debug\net5.0\tgs3.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\tgs3\obj\Debug\net5.0\tgs3.AssemblyInfo.cs
+C:\Users\ACER\Desktop\tgs3\obj\Debug\net5.0\tgs3.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\tgs3\bin\Debug\net5.0\tgs3.exe
+C:\Users\ACER\Desktop\tgs3\bin\Debug\net5.0\tgs3.deps.json
+C:\Users\ACER\Desktop\tgs3\bin\Debug\net5.0\tgs3.runtimeconfig.json
+C:\Users\ACER\Desktop\tgs3\bin\Debug\net5.0\tgs3.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\tgs3\bin\Debug\net5.0\tgs3.dll
+C:\Users\ACER\Desktop\tgs3\bin\Debug\net5.0\ref\tgs3.dll
+C:\Users\ACER\Desktop\tgs3\bin\Debug\net5.0\tgs3.pdb
+C:\Users\ACER\Desktop\tgs3\obj\Debug\net5.0\tgs3.dll
+C:\Users\ACER\Desktop\tgs3\obj\Debug\net5.0\ref\tgs3.dll
+C:\Users\ACER\Desktop\tgs3\obj\Debug\net5.0\tgs3.pdb
+C:\Users\ACER\Desktop\tgs3\obj\Debug\net5.0\tgs3.genruntimeconfig.cache

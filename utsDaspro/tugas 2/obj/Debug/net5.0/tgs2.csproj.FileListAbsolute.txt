@@ -1,0 +1,16 @@
+C:\Users\ACER\Desktop\tgs2\obj\Debug\net5.0\tgs2.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\tgs2\obj\Debug\net5.0\tgs2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\tgs2\obj\Debug\net5.0\tgs2.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\tgs2\obj\Debug\net5.0\tgs2.AssemblyInfo.cs
+C:\Users\ACER\Desktop\tgs2\obj\Debug\net5.0\tgs2.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\tgs2\bin\Debug\net5.0\tgs2.exe
+C:\Users\ACER\Desktop\tgs2\bin\Debug\net5.0\tgs2.deps.json
+C:\Users\ACER\Desktop\tgs2\bin\Debug\net5.0\tgs2.runtimeconfig.json
+C:\Users\ACER\Desktop\tgs2\bin\Debug\net5.0\tgs2.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\tgs2\bin\Debug\net5.0\tgs2.dll
+C:\Users\ACER\Desktop\tgs2\bin\Debug\net5.0\ref\tgs2.dll
+C:\Users\ACER\Desktop\tgs2\bin\Debug\net5.0\tgs2.pdb
+C:\Users\ACER\Desktop\tgs2\obj\Debug\net5.0\tgs2.dll
+C:\Users\ACER\Desktop\tgs2\obj\Debug\net5.0\ref\tgs2.dll
+C:\Users\ACER\Desktop\tgs2\obj\Debug\net5.0\tgs2.pdb
+C:\Users\ACER\Desktop\tgs2\obj\Debug\net5.0\tgs2.genruntimeconfig.cache

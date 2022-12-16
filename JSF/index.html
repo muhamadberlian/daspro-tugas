@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>To apps (VanillaJS)</h1>
+    <input type="text">
+    <button>Tambah List</button>
+    <ul></ul>
+    <script>
+        var inputEl = document.querySelector('input');
+        var buttonEl = document.querySelector('button');
+        var ulEl = document.querySelector('ul');
+
+        var todos = [];
+
+        buttonEl.addEventListener('click',addToDo)
+
+        fuction addToDo()
+        {
+            var userinput = inputEl.value;
+            if(userinput.trim() ==''){
+                return;
+            }
+            var newToDo ={id: math.random(), value userinput };
+            todos.push(newToDo);
+            var toDo
+        }
+    </script>
+
+</body>
+</html>

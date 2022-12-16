@@ -1,0 +1,16 @@
+c:\Users\ACER\Desktop\game adventure\obj\Debug\net5.0\game adventure.csproj.AssemblyReference.cache
+c:\Users\ACER\Desktop\game adventure\obj\Debug\net5.0\game adventure.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ACER\Desktop\game adventure\obj\Debug\net5.0\game adventure.AssemblyInfoInputs.cache
+c:\Users\ACER\Desktop\game adventure\obj\Debug\net5.0\game adventure.AssemblyInfo.cs
+c:\Users\ACER\Desktop\game adventure\obj\Debug\net5.0\game adventure.csproj.CoreCompileInputs.cache
+c:\Users\ACER\Desktop\game adventure\bin\Debug\net5.0\game adventure.exe
+c:\Users\ACER\Desktop\game adventure\bin\Debug\net5.0\game adventure.deps.json
+c:\Users\ACER\Desktop\game adventure\bin\Debug\net5.0\game adventure.runtimeconfig.json
+c:\Users\ACER\Desktop\game adventure\bin\Debug\net5.0\game adventure.runtimeconfig.dev.json
+c:\Users\ACER\Desktop\game adventure\bin\Debug\net5.0\game adventure.dll
+c:\Users\ACER\Desktop\game adventure\bin\Debug\net5.0\ref\game adventure.dll
+c:\Users\ACER\Desktop\game adventure\bin\Debug\net5.0\game adventure.pdb
+c:\Users\ACER\Desktop\game adventure\obj\Debug\net5.0\game adventure.dll
+c:\Users\ACER\Desktop\game adventure\obj\Debug\net5.0\ref\game adventure.dll
+c:\Users\ACER\Desktop\game adventure\obj\Debug\net5.0\game adventure.pdb
+c:\Users\ACER\Desktop\game adventure\obj\Debug\net5.0\game adventure.genruntimeconfig.cache

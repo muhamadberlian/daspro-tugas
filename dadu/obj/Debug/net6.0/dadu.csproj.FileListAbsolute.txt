@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\dadu\bin\Debug\net6.0\dadu.exe
+C:\Users\User\Desktop\dadu\bin\Debug\net6.0\dadu.deps.json
+C:\Users\User\Desktop\dadu\bin\Debug\net6.0\dadu.runtimeconfig.json
+C:\Users\User\Desktop\dadu\bin\Debug\net6.0\dadu.dll
+C:\Users\User\Desktop\dadu\bin\Debug\net6.0\dadu.pdb
+C:\Users\User\Desktop\dadu\obj\Debug\net6.0\dadu.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\dadu\obj\Debug\net6.0\dadu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\dadu\obj\Debug\net6.0\dadu.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\dadu\obj\Debug\net6.0\dadu.AssemblyInfo.cs
+C:\Users\User\Desktop\dadu\obj\Debug\net6.0\dadu.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\dadu\obj\Debug\net6.0\dadu.dll
+C:\Users\User\Desktop\dadu\obj\Debug\net6.0\refint\dadu.dll
+C:\Users\User\Desktop\dadu\obj\Debug\net6.0\dadu.pdb
+C:\Users\User\Desktop\dadu\obj\Debug\net6.0\dadu.genruntimeconfig.cache
+C:\Users\User\Desktop\dadu\obj\Debug\net6.0\ref\dadu.dll
